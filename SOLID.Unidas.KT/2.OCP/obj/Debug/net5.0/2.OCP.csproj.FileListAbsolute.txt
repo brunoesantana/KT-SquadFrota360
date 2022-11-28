@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\obj\Debug\net5.0\2.OCP.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\obj\Debug\net5.0\2.OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\obj\Debug\net5.0\2.OCP.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\obj\Debug\net5.0\2.OCP.AssemblyInfo.cs
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\obj\Debug\net5.0\2.OCP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\bin\Debug\net5.0\2.OCP.exe
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\bin\Debug\net5.0\2.OCP.deps.json
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\bin\Debug\net5.0\2.OCP.runtimeconfig.json
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\bin\Debug\net5.0\2.OCP.runtimeconfig.dev.json
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\bin\Debug\net5.0\2.OCP.dll
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\bin\Debug\net5.0\ref\2.OCP.dll
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\bin\Debug\net5.0\2.OCP.pdb
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\obj\Debug\net5.0\2.OCP.dll
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\obj\Debug\net5.0\ref\2.OCP.dll
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\obj\Debug\net5.0\2.OCP.pdb
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\2.OCP\obj\Debug\net5.0\2.OCP.genruntimeconfig.cache

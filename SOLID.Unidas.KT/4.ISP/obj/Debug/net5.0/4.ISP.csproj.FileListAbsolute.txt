@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\bin\Debug\net5.0\4.ISP.exe
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\bin\Debug\net5.0\4.ISP.deps.json
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\bin\Debug\net5.0\4.ISP.runtimeconfig.json
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\bin\Debug\net5.0\4.ISP.runtimeconfig.dev.json
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\bin\Debug\net5.0\4.ISP.dll
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\bin\Debug\net5.0\ref\4.ISP.dll
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\bin\Debug\net5.0\4.ISP.pdb
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\obj\Debug\net5.0\4.ISP.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\obj\Debug\net5.0\4.ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\obj\Debug\net5.0\4.ISP.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\obj\Debug\net5.0\4.ISP.AssemblyInfo.cs
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\obj\Debug\net5.0\4.ISP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\obj\Debug\net5.0\4.ISP.dll
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\obj\Debug\net5.0\ref\4.ISP.dll
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\obj\Debug\net5.0\4.ISP.pdb
+C:\Users\DELL\Documents\estudos\SOLID.Unidas.KT\4.ISP\obj\Debug\net5.0\4.ISP.genruntimeconfig.cache
